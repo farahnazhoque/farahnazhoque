@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farahnaz Hoque !
 ======================================================================================================================================
 
-2nd Year Computer Science Student and Machine Learning Student Research Assisstant
+3rd Year Computer Science Student and Machine Learning Student Research Assisstant
 ----------------------------------------------------------------------------------
 
 My identity is my north star, guiding me in every aspect of my life, from choosing research topics to embarking on creative projects. As a woman of color studying in the States having grown up in a different culture and country previously, I've learnt to weave my roots into every thread of my work. Many of the projects I undertake are deeply personal, not just reflecting my identities, but also echoing my diverse interests that range from community service, disability advocacy to exploring books and cafes. 
