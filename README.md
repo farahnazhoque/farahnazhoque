@@ -11,5 +11,5 @@ Each project I engage in is a mirror, reflecting both my mind's intricacies and 
 * 🌱 My Pronouns are She/Her/Hers
 * 🌍  I'm based in Irvine, California
 * 💌 You can contact me at [fhoque@uci.edu](mailto:fhoque@uci.edu)
-* 🧠  I'm currently learning API!
+* 🧠  I'm currently learning API, Rust, Docker, and Node.js!
 * ✨ I love to read, create new playlists and practice embroidery !
