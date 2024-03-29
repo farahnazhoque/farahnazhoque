@@ -7,5 +7,5 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 * 🌱 My Pronouns are She/Her/Hers
 * 🌍  I'm based in Irvine, California
 * 💌 You can contact me at [fhoque@uci.edu](mailto:fhoque@uci.edu)
-* 🧠  I'm currently learning API, Rust, Docker, and Node.js!
+* 🧠  I'm currently learning API, Hybrid Apps, Data Prediction Enhancement.
 * ✨ I love to read, create new playlists and practice embroidery !
