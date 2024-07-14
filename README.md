@@ -1,11 +1,32 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farahnaz Hoque !
-======================================================================================================================================
 
-3rd Year Computer Science Student and Machine Learning Student Research Assisstant
-----------------------------------------------------------------------------------
+---
 
-* 🌱 My Pronouns are She/Her/Hers
-* 🌍  I'm based in Irvine, California
-* 💌 You can contact me at [fhoque@uci.edu](mailto:fhoque@uci.edu)
-* 🧠  I'm currently learning API, Hybrid Apps, Data Prediction Enhancement.
-* ✨ I love to read, create new playlists and practice embroidery !
+# Farahnaz Hoque — @faranazhoque
+
+Hi there! I am Farahnaz Hoque, a Computer Science major at UCI and a tech enthusiast passionate about application development, intelligent systems, and software engineering.
+
+Learn more about my journey on my [personal website](https://farahnazhoque.tech) and connect with me on [LinkedIn](https://www.linkedin.com/in/farahnazhoque/).
+
+## What I'm Currently Working On 📚
+
+- **Software Engineer Intern** for SOLO
+- **Web Developer and Designer** at SOAR
+- Learning about scalable software implementations and how to utilize data better
+
+## My Journey So Far 🚀
+
+- Full Stack Developer at **[Commit the Change](https://ctc-uci.com/)**
+- **Machine Learning Research Assistant** at the University of California, Irvine
+- Teaching Assistant for Discrete Mathematics at **University of California, Irvine**
+
+## Future Plans 🔮
+
+- Keep learning and building useful and practical generative AI solutions
+- Participating in hackathons and side projects
+- Expanding my skills in software development
+
+## Get in Touch 📬
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/farahnazhoque/) or via my [personal website](https://farahnazhoque.tech)!
+
+---
