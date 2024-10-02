@@ -9,12 +9,12 @@ Learn more about my journey on my [personal website](https://farahnazhoque.tech)
 
 ## What I'm Currently Working On 📚
 
-- **Software Engineer Intern** for SOLO
 - **Web Developer and Designer** at SOAR
 - Learning about scalable software implementations and how to utilize data better
 
 ## My Journey So Far 🚀
 
+- **Software Engineer Intern** for SOLO
 - Full Stack Developer at **[Commit the Change](https://ctc-uci.com/)**
 - **Machine Learning Research Assistant** at the University of California, Irvine
 - Teaching Assistant for Discrete Mathematics at **University of California, Irvine**
