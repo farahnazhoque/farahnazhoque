@@ -14,6 +14,7 @@ Learn more about my journey on my [personal website](https://farahnazhoque.tech)
 
 ## My Journey So Far 🚀
 
+- Web Master Intern for **Student Outreach and Retention Center at the University of California, Irvine**
 - **Software Engineer Intern** for SOLO
 - Full Stack Developer at **[Commit the Change](https://ctc-uci.com/)**
 - **Machine Learning Research Assistant** at the University of California, Irvine
