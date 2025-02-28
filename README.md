@@ -18,14 +18,15 @@ Hi there! I am Farahnaz Hoque, a Computer Science major at UCI and a tech enthus
 - **Machine Learning Research Assistant** at the University of California, Irvine
 - Teaching Assistant for Discrete Mathematics at **University of California, Irvine**
 
-## Future Plans 🔮
-
-- Learning more about network engineering and creating software solutions through them
-- Keep learning and building useful and practical generative AI solutions
-- Expanding my skills in software development
-
 ## Get in Touch 📬
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/farahnazhoque/) or via my [personal website](https://farahnazhoque.tech)!
 
 ---
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farahnazhoque&show_icons=true&locale=en&layout=compact" alt="farahnazhoque" height=150 
+
+<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=farahnazhoque&show_icons=true&locale=en" alt="farahnazhoque" 
+
+<p><img align="left" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=farahnazhoque&" alt="farahnazhoque" /></p>
