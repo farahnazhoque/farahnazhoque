@@ -3,7 +3,7 @@
 
 # Farahnaz Hoque — @faranazhoque
 
-Hi there! I am Farahnaz Hoque, a Computer Science major at UCI and a tech enthusiast passionate about application development, intelligent systems, and software engineering.
+Hi there! I am Farahnaz Hoque, a recent Computer Science graduate from UCI and a tech enthusiast passionate about application development, intelligent systems, and software engineering.
 
 ## What I'm Currently Working On 📚
 
