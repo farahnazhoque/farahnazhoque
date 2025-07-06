@@ -7,12 +7,13 @@ Hi there! I am Farahnaz Hoque, a Computer Science major at UCI and a tech enthus
 
 ## What I'm Currently Working On 📚
 
-- Data Science Research Intern at **Joe C. Wen School of Population and Public Health under Dr. Jun Wu**
-- **Website Developer and Designer** at SOAR
+- Software Engineer at **Conic**
 - Learning about scalable software implementations and how to utilize data better
 
 ## My Journey So Far 🚀
 
+- Data Science Research Intern at **Joe C. Wen School of Population and Public Health under Dr. Jun Wu**
+- **Website Developer and Designer** at SOAR
 - **Software Engineer Intern** for SOLO
 - Full Stack Developer at **[Commit the Change](https://ctc-uci.com/)**
 - **Machine Learning Research Assistant** at the University of California, Irvine
